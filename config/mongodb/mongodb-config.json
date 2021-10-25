@@ -1,0 +1,8 @@
+{ 
+  "mongodb": { 
+  "server": "cluster0.yy3ka.mongodb.net", 
+  "database": "Tiendas-dev", 
+  "user": "tendero_dv_dev", 
+  "password": "" 
+  } 
+} 
