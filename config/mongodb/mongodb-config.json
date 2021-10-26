@@ -1,8 +1,10 @@
-{ 
-  "mongodb": { 
-  "server": "cluster0.yy3ka.mongodb.net", 
-  "database": "Tiendas-dev", 
-  "user": "tendero_dv_dev", 
-  "password": "" 
-  } 
-} 
+{
+  "mongodb": {
+    "server": "cluster0.6kgbh.mongodb.net",
+    "database": "proyectot-dev",
+    "user": "proyecto_dv_dev",
+    "password": "proyectot",
+    "params": ""
+
+  }
+}
