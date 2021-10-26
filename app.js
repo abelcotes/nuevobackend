@@ -58,7 +58,7 @@ function checkAuth(req, res, next) {
       });
 
   } else {
-    res.status(403).send('No autorizado por Token Invalido');
+    res.status(401).send('Unauthorized');
   }
 }
 app.use('*', checkAuth);
